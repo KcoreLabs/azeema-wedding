@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Azeema and Bazeer//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:azeema-bazeer-20261227@wedding.local
+DTSTAMP:20260915T000000Z
+DTSTART:20261227T050000Z
+DTEND:20261227T060000Z
+SUMMARY:Azeema & Bazeer — Nikah Ceremony
+LOCATION:Sri Kantha Mahal\, Coimbatore Road\, Pollachi\, Tamil Nadu 642002
+DESCRIPTION:With love and duas from Azeema's family.
+END:VEVENT
+END:VCALENDAR
